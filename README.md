@@ -1,4 +1,4 @@
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/mDlZpwa" data-context="false" ><a href="//imgur.com/a/mDlZpwa"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/mDlZpwa" >
 
 <!--
 **camdenHess/camdenHess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
