@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://twitter.com/i/status/1737568435746619580" />
+<img src="https://x.com/camden_hess1/status/1737568435746619580?s=20">
 
 <!--
 **camdenHess/camdenHess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
